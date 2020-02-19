@@ -1,0 +1,10 @@
+C:\Users\D90-045\Desktop\FINS\FINS\bin\Debug\FINS.exe
+C:\Users\D90-045\Desktop\FINS\FINS\bin\Debug\FINS.pdb
+C:\Users\D90-045\Desktop\FINS\FINS\bin\Debug\FINS.xml
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.Form1.resources
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.Resources.resources
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.vbproj.GenerateResource.Cache
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.exe
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.xml
+C:\Users\D90-045\Desktop\FINS\FINS\obj\Debug\FINS.pdb
